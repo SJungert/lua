@@ -1,3 +1,4 @@
+function main()
     -- Tables
     tbl1 = {"alpha", "beta", "gamma"}
     tbl2 = {"delta", "epsilon", "zeta"}
@@ -46,7 +47,6 @@
     --]]
 
     -- TEST - 
-
 end
 
 -- Function Definitions
